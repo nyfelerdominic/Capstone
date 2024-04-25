@@ -1,5 +1,7 @@
-numpy
-opencv-python
-packaging
-pillow
+ultralytics
+mariadb
+watchdog
 pytesseract
+scikit-image
+filterpy
+lap
