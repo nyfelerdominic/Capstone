@@ -2,3 +2,12 @@
 pyenv/
 liscense_plates/
 testing/
+.vscode/
+gui_testing/
+.venv/
+car-plate-detection/
+capture frames/
+__pycache__/
+config.py
+cropped_plate.jpg
+yolov8n.pt
